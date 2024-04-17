@@ -1,0 +1,12 @@
+embedder:
+  provider: google
+  config:
+    model: 'models/embedding-001'
+    task_type: "retrieval_document"
+    title: "Embeddings"
+vectordb:
+  provider: chroma
+  config:
+    collection_name: 'docs'
+    dir: db
+    allow_reset: true
