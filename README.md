@@ -9,6 +9,7 @@ Gff is a smart assistant that knows exactly what to put in each field of the for
 - **Automatic Form Filling**: Fill out Google Forms automatically using context extracted from documents.
 - **Google Gemini AI Integration**: Leverage the power of AI to understand and fill forms accurately.
 - **Interactive Prompts**: Get prompted for additional context when necessary, ensuring comprehensive form filling.
+- **Multiple Field Types Support**: Short Text, Paragraph, Multiple Choice, Checkbox, List of Choices, Scale, Grid, Date, and Time.
 
 ## Prerequisites
 
