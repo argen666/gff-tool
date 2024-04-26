@@ -53,7 +53,7 @@ python gff.py --copilot
 
 Watch our demo video to see how it works.
 
-[![Watch the Demo](http://img.youtube.com/vi/AeSELE88cJw/3.jpg)](https://youtu.be/AeSELE88cJw)
+[![Watch the Demo](http://img.youtube.com/vi/azAcno0OL8s/3.jpg)](https://youtu.be/azAcno0OL8s)
 
 ### Try It Yourself
 
